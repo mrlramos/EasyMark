@@ -1,0 +1,6 @@
+@EasyMark.WebAPI_HostAddress = http://localhost:5246
+
+GET {{EasyMark.WebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
